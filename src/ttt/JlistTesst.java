@@ -52,7 +52,7 @@ public class JlistTesst extends JFrame {
 					System.out.println(textField.getText());
 					new JlistTesst(textField.getText());
 				}else{
-					System.out.println("xxxdsfsdddd");
+					System.out.println("xxxdsfsdddd13123");
 				}
 				System.out.println("button1 start:");
 				System.out.println(textField.getText());
