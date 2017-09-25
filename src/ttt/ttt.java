@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class ttt {
 
 	public static void main(String[] args) {
-		 File f = new File("d:\\ccc"); //讀取"00這個資料夾"，要記得將此資料夾放置同個java file裡面
+		 File f = new File("d:\\ccc"); //讀取"00這個資料夾"，要記得將此資料夾放置同個java file裡面 sss
 		 ArrayList<String> fileList = new ArrayList<String>(); //宣告一的動態陣列為String的型態，目的用來儲存檔名
 	        if(f.isDirectory()) //如果f讀到的是資料夾，就會執行
 	        {
